@@ -49,6 +49,8 @@ header {
   border-bottom: 1px solid seashell;
   background-color: black;
   position: fixed;
+  top: 0px;
+
 }
 
 header img {
